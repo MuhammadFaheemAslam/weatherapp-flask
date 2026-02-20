@@ -21,11 +21,7 @@ A sleek and modern **Flask web application** that delivers real-time weather dat
 
 ## 📸 Preview
 
-> Add a screenshot here
-
-```md
 ![App Screenshot](weatherApp/media/WeatherApp.png)
-```
 
 ---
 
