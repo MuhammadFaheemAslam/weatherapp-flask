@@ -30,7 +30,7 @@ A sleek and modern **Flask web application** that delivers real-time weather dat
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weatherApp.git
+git clone [https://github.com/MuhammadFaheemAslam/WeatherApp-Flask.git]
 cd weatherApp
 ```
 
@@ -125,6 +125,3 @@ If you'd like to improve the UI, performance, or add features — feel free to f
 
 This project is open-source and available under the MIT License.
 
-
-
-Just tell me the vibe you want 😊
